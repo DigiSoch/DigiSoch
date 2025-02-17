@@ -9,14 +9,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DigiSoch](https://github.com/DigiSoch)
 
-- 📫 How to reach me **getjob4arvind@gmail.com**
+- 📫 How to reach me [https://www.linkedin.com/in/digisoch/](https://www.linkedin.com/in/digisoch/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/digisoch/](https://www.linkedin.com/in/digisoch/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arvind-kumar-a8b591221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvind-kumar-a8b591221" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arvindmaurya320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arvindmaurya320" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/digisoch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arvindmaurya320" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arvindkumar320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arvindkumar320" height="30" width="40" /></a>
 </p>
 
