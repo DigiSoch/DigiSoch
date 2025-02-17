@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arvind</h1>
 <h3 align="center">Automation Test Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind-git-code&label=Profile%20views&color=0e75b6&style=flat" alt="arvind-git-code" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DigiSoch&label=Profile%20views&color=0e75b6&style=flat" alt="DigiSoch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvind-git-code" alt="arvind-git-code" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DigiSoch" alt="DigiSoch" /></a> </p>
 
 - 👯 I’m looking to collaborate on my projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/arvind-git-code](https://github.com/arvind-git-code)
+- 👨‍💻 All of my projects are available at [https://github.com/DigiSoch](https://github.com/DigiSoch)
 
-- 📫 How to reach me **arvindkumarlbsmca@gmail.com**
+- 📫 How to reach me **getjob4arvind@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arvind-kumar-a8b591221/](https://www.linkedin.com/in/arvind-kumar-a8b591221/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/digisoch/](https://www.linkedin.com/in/digisoch/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +25,8 @@
 <img src="https://icon.icepanel.io/Technology/svg/Cucumber.svg" alt="Cucumber icon" height="40" width="40"></a> </p>
 
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind-git-code&show_icons=true&locale=en&layout=compact" alt="arvind-git-code" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DigiSoch&show_icons=true&locale=en&layout=compact" alt="DigiSoch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind-git-code&show_icons=true&locale=en" alt="arvind-git-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DigiSoch&show_icons=true&locale=en" alt="DigiSoch" /></p>
 -->
 
